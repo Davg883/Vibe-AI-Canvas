@@ -1,0 +1,5 @@
+{
+  "name": "VibeAI Web Weaver",
+  "description": "An AI-powered tool to help non-coders bring their simple webpage ideas to life by translating plain English into well-structured prompts and generating commented code examples.",
+  "requestFramePermissions": []
+}
